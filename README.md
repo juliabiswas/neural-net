@@ -1,5 +1,1 @@
-# neural-net
-my own neural network (multilayer perceptron) written in Java that implements gradient descent to minimize error
-
-## configuration
-see config.txt file for giving user specifications; an example control file is also provided (andorxor.txt)
+**configuration:** config.txt file for giving user specifications; an example control file is also provided (andorxor.txt)
